@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" role="img" aria-labelledby="title">
+  <title>大衍正式标识，深色背景反白版</title>
+  <defs><rect id="dot" width="12" height="12" rx="0.6" fill="#FFFFFF"/></defs>
+  <g transform="translate(15 30) scale(.8)">
+    <use href="#dot" x="0" y="0"/><use href="#dot" x="19" y="0"/><use href="#dot" x="38" y="0"/><use href="#dot" x="57" y="0"/><use href="#dot" x="76" y="0"/><use href="#dot" x="95" y="0"/><use href="#dot" x="114" y="0"/>
+    <use href="#dot" x="0" y="19"/><use href="#dot" x="19" y="19"/><use href="#dot" x="38" y="19"/><use href="#dot" x="57" y="19"/><use href="#dot" x="76" y="19"/><use href="#dot" x="95" y="19"/><use href="#dot" x="114" y="19"/>
+    <use href="#dot" x="0" y="38"/><use href="#dot" x="19" y="38"/><use href="#dot" x="38" y="38"/><use href="#dot" x="57" y="38"/><use href="#dot" x="76" y="38"/><use href="#dot" x="95" y="38"/><use href="#dot" x="114" y="38"/>
+    <use href="#dot" x="0" y="57"/><use href="#dot" x="19" y="57"/><use href="#dot" x="38" y="57"/><use href="#dot" x="57" y="57"/><use href="#dot" x="76" y="57"/><use href="#dot" x="95" y="57"/><use href="#dot" x="114" y="57"/>
+    <use href="#dot" x="0" y="76"/><use href="#dot" x="19" y="76"/><use href="#dot" x="38" y="76"/><use href="#dot" x="57" y="76"/><use href="#dot" x="76" y="76"/><use href="#dot" x="95" y="76"/><use href="#dot" x="114" y="76"/>
+    <use href="#dot" x="0" y="95"/><use href="#dot" x="19" y="95"/><use href="#dot" x="38" y="95"/><use href="#dot" x="57" y="95"/><use href="#dot" x="76" y="95"/><use href="#dot" x="95" y="95"/><use href="#dot" x="114" y="95"/>
+    <use href="#dot" x="0" y="114"/><use href="#dot" x="19" y="114"/><use href="#dot" x="38" y="114"/><use href="#dot" x="57" y="114"/><use href="#dot" x="76" y="114"/><use href="#dot" x="95" y="114"/><use href="#dot" x="114" y="114"/>
+  </g>
+  <rect x="120" y="16" width="12" height="12" rx="0.6" fill="#D7263D"/>
+</svg>
